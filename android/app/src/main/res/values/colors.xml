@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nn_dark">#0A0A0A</color>
+    <color name="nn_content">#121212</color>
+    <color name="nn_panel">#181818</color>
+    <color name="nn_inset">#1F1F1F</color>
+    <color name="nn_border">#2A2A2A</color>
+    <color name="nn_paper">#EDE9E1</color>
+    <color name="nn_secondary">#A8A39A</color>
+    <color name="nn_muted">#85817B</color>
+    <color name="nn_brass">#B08D57</color>
+    <color name="nn_green">#6F8A5E</color>
+    <color name="nn_warning">#B9873D</color>
+    <color name="nn_red">#8B3A3A</color>
+</resources>
